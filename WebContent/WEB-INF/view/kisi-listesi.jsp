@@ -4,9 +4,7 @@
 
 <html>
 <head>
-	<META http-equiv=content-type content=text/html;charset=iso-8859-9>
-	<META http-equiv=content-type content=text/html;charset=windows-1254>
-	<META http-equiv=content-type content=text/html;charset=x-mac-turkish>
+	<meta charset="utf-8">
 
   <title>Adres Defteri</title>
   

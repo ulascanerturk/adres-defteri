@@ -41,7 +41,7 @@ public class KisilerController {
 	
 	@PostMapping("/kisiKaydet")
 	public String kisiKaydet(@ModelAttribute("kisiler") Kisiler kisiler) {
-		
+				
 		kisilerDAO.kisiKaydet(kisiler);
 		
 		return "redirect:/";
